@@ -11,6 +11,7 @@ This is a beginner friendly project good for students to gain experience when st
 The course is used as reference for making courses on-line on Twitch. We maintain slides in parallel. You must be member on Discord and you need to have @instructor role. This is granted to developers who prove to know C++ already. Beginners can learn from this tutorial and take a quiz.
 
 **Acceptance**
+
 Students who can pass the existing quiz will be invited to contribute to improve demo code, articles and slides. We believe the most efficient method to learn is by teaching. Therefore we enable everyone willing to contribute a chanse. You can clone this repository, make changes, preview the changes and make a PR (Pull Request). An instructor will merge your modifications into main branch.
 
 **Direct push**
