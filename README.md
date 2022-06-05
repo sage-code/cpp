@@ -24,5 +24,6 @@ We communocate using work items in public, since this is an open source project.
 We look forward for you to join our team. Visit our homepage and get an invitation.
 
 Have fun. Work smarter not harder!
+
 ---
 Copiright (c) 2022
